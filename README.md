@@ -52,5 +52,5 @@ SUBJECT: Safe Space alert at [EVENT NAME]
 
 I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT). 
 
-You can reach us at csolana@codeforamerica.org or ehsiung@codeforamerica.org. Thank you.
+You can reach us at codeformiami@gmail.com. Thank you.
 
